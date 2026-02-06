@@ -1,5 +1,4 @@
-# Turtle
-html = """<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <title>Welcome</title>
@@ -58,9 +57,3 @@ function move() {
 
 </body>
 </html>
-"""
-
-with open("index.html", "w") as f:
-    f.write(html)
-
-print("Website created! Open index.html ❤️")
