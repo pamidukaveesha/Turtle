@@ -35,7 +35,7 @@ button {
 
 <body>
 
-<h1>Hey Nethh 🐨… I have something to ask you ❤️</h1>
+<h1>Hey Nethh 🐨… will youuuu beee myyy valentinee ❤️</h1>
 
 <button id="yes" onclick="yes()">Yes</button>
 <button id="no" onmouseover="move()">No</button>
