@@ -5,7 +5,7 @@
 
 <style>
 body {
-    background: pink;
+    background: blue;
     text-align: center;
     font-family: Arial;
 }
