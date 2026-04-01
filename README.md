@@ -35,14 +35,14 @@ button {
 
 <body>
 
-<h1>Hey Nethh 🐨… will youuuu beee myyy valentinee ❤️</h1>
+<h1>akknjdwbdusbdsbdis jknsksn</h1>
 
 <button id="yes" onclick="yes()">Yes</button>
 <button id="no" onmouseover="move()">No</button>
 
 <script>
 function yes() {
-    alert("Yay Nethh 🐨!!! 💕 You just made my day!");
+    alert("Ya!!! ahjbduasudkjas!");
 }
 
 function move() {
